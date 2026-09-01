@@ -2,15 +2,15 @@
 
 ## Overview
 
-The E-Learning Platform is a Java Swing desktop application designed to manage academic records efficiently.
+E-Learning Platform is a Java Swing desktop application developed to manage academic records through an interactive graphical interface.
 
-The system allows management of students, courses, enrollments, grades, GPA calculations, and transcript generation through a graphical user interface.
+The system allows users to manage students, courses, enrollments, grades, GPA calculations, and transcript generation.
 
 ## Features
 
 - Student Management
 - Course Management
-- Student Enrollment
+- Enrollment Management
 - Grade Assignment
 - GPA Calculation
 - Transcript Generation
@@ -21,33 +21,27 @@ The system allows management of students, courses, enrollments, grades, GPA calc
 - Java
 - Java Swing
 - Object-Oriented Programming
-- ArrayList
-
-## Project Structure
-
-```text
-e-learning-platform-java/
-├── src/
-├── README.md
-└── docs/
-```
+- Collections Framework
 
 ## How to Run
 
-1. Open the project in VS Code or any Java IDE.
-2. Compile the Java files.
-3. Run the main application class.
+Compile:
 
 ```bash
-javac *.java
-java Main
+javac ELearningPlatform.java
+```
+
+Run:
+
+```bash
+java ELearningPlatform
 ```
 
 ## Future Improvements
 
 - Database Integration
-- Online Learning Features
-- Attendance Tracking
+- Online Learning Support
+- Attendance Management
 - User Authentication
 
 ## Author
